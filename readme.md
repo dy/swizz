@@ -1,6 +1,8 @@
-# swizz [![npm install spect](https://nodei.co/npm/spect.png?mini=true)](https://npmjs.org/package/spect/) [![Build Status](https://travis-ci.org/dy/swizz.svg?branch=gh-pages)](https://travis-ci.org/dy/swizz)
+# swizz [![Build Status](https://travis-ci.org/dy/swizz.svg?branch=gh-pages)](https://travis-ci.org/dy/swizz)
 
 Provide swizzles for arrays, like GLSL.
+
+ [![npm install swizz](https://nodei.co/npm/swizz.png?mini=true)](https://npmjs.org/package/swizz/)
 
 ```js
 import swizzle from 'swizz'
@@ -13,7 +15,6 @@ arr // [2, 1, 0, 3]
 ```
 
 Supported swizzles: `xyzw`, `stpd`, `rgba`.
-
 Uses _Proxy_ under the hood.
 
 ---
