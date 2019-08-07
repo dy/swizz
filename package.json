@@ -1,0 +1,27 @@
+{
+  "name": "swizz",
+  "version": "1.0.0",
+  "description": "Provide swizzle props for array/object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -r esm test",
+    "start": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dy/swizz"
+  },
+  "keywords": [
+    "swizzle",
+    "webgl",
+    "swizz",
+    "swiz",
+    "swap"
+  ],
+  "author": "DY <dfcreative@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "tst": "^3.2.0"
+  }
+}
