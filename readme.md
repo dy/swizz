@@ -17,18 +17,16 @@ arr // [2, 1, 0, 3]
 Supported swizzles: `xyzw`, `stpd`, `rgba`.
 Uses _Proxy_ under the hood.
 
----
 
-#### Related art
+### Related art
 
 * [swizz](https://ghub.io/swizz)
 * [known](https://ghub.io/known)
 * [on-change](https://ghub.io/on-change)
 
-#### Refs
+### Refs
 
 * [Metaprogramming with proxies](https://exploringjs.com/es6/ch_proxies.html)
 
----
 
 HK
