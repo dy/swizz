@@ -1,4 +1,4 @@
-# swizz [![Build Status](https://travis-ci.org/dy/swizz.svg?branch=gh-pages)](https://travis-ci.org/dy/swizz)
+# swizz [![Build Status](https://travis-ci.org/dy/swizz.svg?branch=master)](https://travis-ci.org/dy/swizz)
 
 Provide swizzles for arrays, like GLSL.
 
